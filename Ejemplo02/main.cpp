@@ -1,7 +1,14 @@
-#include <stdio.h>
+#include <iostream>
 
 int main(int argc, char **argv)
 {
-	printf("hello world\n");
-	return 0;
+	int x, y, z;
+    cout <<"Introduzca el primer numero: ";
+    cin >> x;
+    cout << "Introduzca el segundo numero: ";
+    cin >> y;
+    z= x+y;
+    cout << "La suma " <<x<< " mas " <<y<< " es igual a " <<z<< "." endl;
+    
+    return 0;
 }

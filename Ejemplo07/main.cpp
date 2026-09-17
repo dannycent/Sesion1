@@ -1,7 +1,17 @@
-#include <stdio.h>
+#include <iostream>
+
+using namespace std;
 
 int main(int argc, char **argv)
 {
-	printf("hello world\n");
-	return 0;
+	char c;
+    bool test;
+    cout<< "Pulse teclas numericas. Acabe pulsando ESC\n";
+    do {
+        c = getchar();
+        test = ((c>='0') && (c<='9'));
+        if (test)
+            cout<<c<< " pulsando.\n";
+    } while (c !=27);
+    return 0;
 }
