@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Sesion1" Version="10000">
-  <Project Name="Ejemplo01" Path="Ejemplo01/Ejemplo01.project" Active="Yes"/>
-  <Project Name="Ejemplo02" Path="Ejemplo02/Ejemplo02.project"/>
-  <Project Name="Ejemplo03" Path="Ejemplo03/Ejemplo03.project"/>
-  <Project Name="Ejemplo04" Path="Ejemplo04/Ejemplo04.project"/>
-  <Project Name="Ejemplo05" Path="Ejemplo05/Ejemplo05.project"/>
-  <Project Name="Ejemplo06" Path="Ejemplo06/Ejemplo06.project"/>
-  <Project Name="Ejemplo07" Path="Ejemplo07/Ejemplo07.project"/>
-  <Project Name="Ejemplo08" Path="Ejemplo08/Ejemplo08.project"/>
+  <Project Name="Ejemplo01" Path="Ejemplo01/Ejemplo01.project" Active="No"/>
+  <Project Name="Ejemplo02" Path="Ejemplo02/Ejemplo02.project" Active="No"/>
+  <Project Name="Ejemplo03" Path="Ejemplo03/Ejemplo03.project" Active="No"/>
+  <Project Name="Ejemplo04" Path="Ejemplo04/Ejemplo04.project" Active="No"/>
+  <Project Name="Ejemplo05" Path="Ejemplo05/Ejemplo05.project" Active="No"/>
+  <Project Name="Ejemplo06" Path="Ejemplo06/Ejemplo06.project" Active="No"/>
+  <Project Name="Ejemplo07" Path="Ejemplo07/Ejemplo07.project" Active="No"/>
+  <Project Name="Ejemplo08" Path="Ejemplo08/Ejemplo08.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
