@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="sesion2" Version="10000">
+  <Project Name="ejemplo09" Path="ejemplo09/ejemplo09.project" Active="No"/>
+  <Project Name="ejemplo10" Path="ejemplo10/ejemplo10.project" Active="No"/>
+  <Project Name="ejemplo11" Path="ejemplo11/ejemplo11.project" Active="Yes"/>
+  <Project Name="ejemplo12" Path="ejemplo12/ejemplo12.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="ejemplo09" ConfigName="Debug"/>
+      <Project Name="ejemplo10" ConfigName="Debug"/>
+      <Project Name="ejemplo11" ConfigName="Debug"/>
+      <Project Name="ejemplo12" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
